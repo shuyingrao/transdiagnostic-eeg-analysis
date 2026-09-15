@@ -60,16 +60,10 @@ Covariates:
 The analysis follows a discovery-validation framework:
 
 ```
-Chengdu cohort
-      |
-      v
-Statistical discovery
-      |
-      v
-Hangzhou cohort
-      |
-      v
-Cross-site validation
+ Chengdu cohort: Statistical discovery
+               |
+               v
+Hangzhou cohort: Cross-site validation
 ```
 
 ---
