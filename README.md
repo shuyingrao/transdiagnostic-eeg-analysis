@@ -172,6 +172,7 @@ The pipeline supports:
 ## Run only within-site validation
 
 ```bash
+cd predictive_modeling
 python run_all.py --mode within
 ```
 
@@ -182,6 +183,7 @@ python run_all.py --mode within
 Example:
 
 ```bash
+cd predictive_modeling
 python run_all.py \
 --mode cross \
 --feature_set PSD+CONN \
@@ -194,6 +196,7 @@ python run_all.py \
 ## Continue interrupted experiments
 
 ```bash
+cd predictive_modeling
 python run_all.py --skip_existing
 ```
 
