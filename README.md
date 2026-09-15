@@ -173,6 +173,7 @@ The pipeline supports:
 
 ```bash
 cd predictive_modeling
+
 python run_all.py --mode within
 ```
 
@@ -184,6 +185,7 @@ Example:
 
 ```bash
 cd predictive_modeling
+
 python run_all.py \
 --mode cross \
 --feature_set PSD+CONN \
@@ -197,6 +199,7 @@ python run_all.py \
 
 ```bash
 cd predictive_modeling
+
 python run_all.py --skip_existing
 ```
 
