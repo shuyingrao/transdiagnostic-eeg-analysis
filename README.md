@@ -24,9 +24,13 @@ The complete workflow includes:
 If you use this code, please cite:
 
 ```bibtex
-@article{rao2026large,
+@article{
   title={Large-scale EEG Reveals Shared and Distinct Neural Oscillatory Features Across Major Psychiatric Disorders},
-  author={Rao, Shuying and Xie, Junyi and Niu, Mengfan and others},
+  author={Shuying Rao, Junyi Xie,Mengfan Niu, Yue Pan, Yue Li, Hua Yu, Jingyi Xie, Yaoyun Zhang, Sha Zhao, Gang Pan, Wanjun Guo, Tao Li, Haiteng Jiang},
+  journal={},
+  volume={},
+  number={},
+  pages={},
   year={2026}
 }
 ```
